@@ -147,7 +147,7 @@ export const VenetianDressCode: React.FC = () => {
             {/* Silueta Femenina (47-48% del bloque, protagonista visual completa de pies a cabeza) */}
             <div className="w-[47%] sm:w-[48%] shrink-0 relative overflow-hidden bg-[#070505] border border-[#C6A15B]/35 shadow-lg flex items-center justify-center p-1">
               <img
-                src="/images/decorative/dress-code-damas.jpg"
+                src="/images/assets/decorative/dress-code-damas.jpg"
                 alt="Silueta de gala para damas"
                 referrerPolicy="no-referrer"
                 className="w-full h-auto aspect-[896/1200] object-contain object-center transform transition-transform duration-700 group-hover:scale-105"
@@ -196,7 +196,7 @@ export const VenetianDressCode: React.FC = () => {
             {/* Silueta Masculina (47-48% del bloque, protagonista visual completa de pies a cabeza) */}
             <div className="w-[47%] sm:w-[48%] shrink-0 relative overflow-hidden bg-[#070505] border border-[#C6A15B]/35 shadow-lg flex items-center justify-center p-1">
               <img
-                src="/images/decorative/dress-code-caballeros.jpg"
+                src="/images/assets/decorative/dress-code-caballeros.jpg"
                 alt="Silueta de gala para caballeros"
                 referrerPolicy="no-referrer"
                 className="w-full h-auto aspect-[896/1200] object-contain object-center transform transition-transform duration-700 group-hover:scale-105"
