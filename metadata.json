@@ -1,0 +1,6 @@
+{
+  "name": "La Notte di Valentina — XV Años",
+  "description": "Invitación digital exclusiva para los XV años de Valentina. Venetian Noir Gala · 10 de octubre de 2026 en La Alameda Eventos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
