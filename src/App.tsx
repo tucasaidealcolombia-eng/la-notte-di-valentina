@@ -167,7 +167,7 @@ export default function App() {
               ===================================================================== */}
           <img
             id="layer-2-frame"
-            src="/images/assets/decorative/marco-de-cubierta-veneciana.png"
+            src="/images/assets/decorative/venetian.cover.frame.png"
             alt="Marco decorativo veneciano"
             aria-hidden="true"
             className="absolute inset-0 z-20 w-full h-full object-fill object-center pointer-events-none"
