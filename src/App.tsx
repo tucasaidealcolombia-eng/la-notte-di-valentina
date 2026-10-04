@@ -482,6 +482,21 @@ export default function App() {
           </div>
         </section>
 
+        {/* ============================================================
+   LLUVIA DE SOBRES
+   ============================================================ */}
+<section
+  id="lluvia-de-sobres"
+  className="px-4 py-10 sm:px-6"
+>
+  <div className="mx-auto w-full max-w-3xl overflow-hidden rounded-2xl border border-[#C6A15B]/40 bg-[#0B0909] shadow-[0_0_40px_rgba(198,161,91,0.12)]">
+    <img
+      src="/images/assets/decorative/lluvia-de-sobres.png"
+      alt="Lluvia de sobres - Un detalle para Valentina"
+      className="block h-auto w-full"
+    />
+  </div>
+</section>
         {/* =========================================================================
             SCENE 3.5 — COUNTDOWN EN TIEMPO REAL
             ========================================================================= */}
